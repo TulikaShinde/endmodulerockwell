@@ -1,0 +1,23 @@
+{
+  "name": "endmodulerockwell",
+  "version": "1.0.0",
+  "description": "Rockwell app for end module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TulikaShinde/endmodulerockwell.git"
+  },
+  "author": "Tulika Shinde 223220",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TulikaShinde/endmodulerockwell/issues"
+  },
+  "homepage": "https://github.com/TulikaShinde/endmodulerockwell#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
